@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Zubia!</h1>
-<h3 align="center">An Electronics & Telecommunications Engineering Student</h3>
+<h1 align="center">hello:3, I'm Zubia!</h1>
+<h3 align="center">I love Humanitarian Technology!</h3>
+⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubot5&label=Profile%20views&color=0e75b6&style=flat" alt="zubot5" /> </p>
 
 <img align="right" height="200" src="https://media.tenor.com/Jsj-LPg73J0AAAAM/cute-animals.gif"  />
-
-- 🌱 I’m currently learning **Machine Learning & Data Science**
-- ⭐ I’m interested in **Radar Systems and Antenna Technology**
-- 🔭 I'm open to **Internships and Project Collaborations**
-
+⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙
+₊⊹.݁⟡.~ I’m currently working on **Metasurfaces & Antenna Systems**
+₊⊹.݁⟡.~ I’m interested in **ML & Remote Sensing**
+₊⊹.݁⟡.~ I specialize in **Wireless & Mobile Communication**
+₊⊹.݁⟡.~ I'm open to **Internships & Non-profit Project Collaborations**
+⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙
 <h3 align="left">Connect with me :3</h3>
 <p align="left">
 <a href="https://twitter.com/okzubia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="okzubia" height="30" width="40" /></a>
