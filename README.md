@@ -8,7 +8,7 @@
 ⭐I’m currently working on **Metasurfaces & Antenna Systems**<br>
 ⭐I’m interested in **ML & Remote Sensing**<br>
 ⭐I specialize in **Wireless & Mobile Communication**<br>
-⭐I'm op-en to **Internships & Non-profit Project Collaborations**<br>
+⭐I'm open to **Internships & Non-profit Project Collaborations**<br>
 
 <h3 align="left">Connect with me :3</h3>
 <p align="left">
